@@ -63,3 +63,4 @@ class SpriteManager {
         return r1 + r2 > dist(a.pos.x, a.pos.y, b.pos.x, b.pos.y);
     }
 }
+   
